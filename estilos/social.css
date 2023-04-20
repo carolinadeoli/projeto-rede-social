@@ -29,3 +29,40 @@ a {
 a:hover{
     background-color: red;
 }
+
+a#telagit{
+    display: block;
+    background-color: purple;
+    color:white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a#telagit:hover{
+    background-color: blueviolet;
+}
+
+a#telainsta{
+    display: block;
+    background-color: rgb(94, 94, 168);
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a#telainsta:hover{
+    background-color: rgb(235, 125, 143);
+}
+
+a#telalinkedin{
+    display: block;
+    background-color: rgb(63, 160, 206);
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a#telalinkedin:hover{
+    background-color: rgba(16, 16, 197, 0.87);
+}
